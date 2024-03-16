@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="bear"></string>
+    <string name="bird"></string>
+    <string name="camel"></string>
+    <string name="cat"></string>
+    <string name="dog"></string>
+    <string name="elephant"></string>
+    <string name="fish"></string>
+    <string name="lion"></string>
+    <string name="monkey"></string>
+    <string name="turtle"></string>
+
+</resources>
